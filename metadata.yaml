@@ -1,5 +1,5 @@
 _repo: Water-Color-Renderings-of-Venice_64368
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Powell, William Robert
@@ -16,7 +16,12 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/Pierre_Vignal
     - https://en.wikipedia.org/wiki/Pierre_Vignal
+covers:
+- cover_type: archival
+  image_path: 64368-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64368#Water-Color-Renderings-of-Venice
 gutenberg_issued: '2021-01-22'
 gutenberg_type: Text
 identifiers:
