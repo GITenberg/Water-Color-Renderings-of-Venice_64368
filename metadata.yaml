@@ -1,0 +1,33 @@
+_repo: Water-Color-Renderings-of-Venice_64368
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Powell, William Robert
+    birthdate: 1876
+    gutenberg_agent_id: '52868'
+    url: http://www.gutenberg.org/2009/agents/52868
+  illustrator:
+    agent_name: Vignal, Pierre
+    alias: Vignal, Pierre Victor Louis
+    birthdate: 1855
+    deathdate: 1925
+    gutenberg_agent_id: '52867'
+    url: http://www.gutenberg.org/2009/agents/52867
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Pierre_Vignal
+    - https://en.wikipedia.org/wiki/Pierre_Vignal
+description: ''
+gutenberg_issued: '2021-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64368'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Venice (Italy) -- Pictorial works'
+- !lcc 'ND'
+- GITenberg
+title: Water Color Renderings of Venice
+url: http://www.gutenberg.org/ebooks/64368
